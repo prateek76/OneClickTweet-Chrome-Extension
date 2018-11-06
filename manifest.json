@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "twitter",
+  "description": "twitter demo",
+  "version": "1.0",
+
+  "background": {
+    "scripts": ["background.js"]
+    //"persistant": false //memory free rahega
+  },
+  "version": "1.0",
+  "icons": {
+    "64": "icon.png",
+    "32": "icon.png",
+    "16": "icon.png",
+    "128": "icon.png"
+  },
+  "permissions": [
+    "contextMenus"
+  ]
+}
+
+//history page,bookmark manager,newtab can be only override
