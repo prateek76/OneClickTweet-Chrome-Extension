@@ -8,8 +8,6 @@ Tweet what you want on just a click
 
 ## Installation
 
-Windows & Linux:
-
 ```sh
 Open google chrome (or Opera/firefox)
 ```
