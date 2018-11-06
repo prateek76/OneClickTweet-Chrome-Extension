@@ -29,10 +29,16 @@ start using :)
 ## Screenshots
 
 <img src="https://prateek76.github.io/TweetOnClick-Chrome-Extension/screenshots/shareImage.png">
+<h3>Share image</h3>
 <br>
 <img src="https://prateek76.github.io/TweetOnClick-Chrome-Extension/screenshots/shareLink.png">
+<h3>Share link</h3>
 <br>
 <img src="https://prateek76.github.io/TweetOnClick-Chrome-Extension/screenshots/shareSelection.png">
+<h3>Share selected text</h3>
+<br>
+<img src="https://prateek76.github.io/TweetOnClick-Chrome-Extension/screenshots/page.png">
+<h3>Share page</h3>
 
 
 
