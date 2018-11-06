@@ -11,7 +11,7 @@ Tweet what you want on just a click
 Windows & Linux:
 
 ```sh
-Open google chrome
+Open google chrome (or Opera/firefox)
 ```
 
 ```sh
